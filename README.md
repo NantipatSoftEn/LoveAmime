@@ -3,24 +3,7 @@
 Click raw and Copy in Code you 
 God Blessing ...
 ```
-
-   SSSSSSSSSSSSSSS                      ffffffffffffffff           tttt                           EEEEEEEEEEEEEEEEEEEEEE                  
- SS:::::::::::::::S                    f::::::::::::::::f       ttt:::t                           E::::::::::::::::::::E                  
-S:::::SSSSSS::::::S                   f::::::::::::::::::f      t:::::t                           E::::::::::::::::::::E                  
-S:::::S     SSSSSSS                   f::::::fffffff:::::f      t:::::t                           EE::::::EEEEEEEEE::::E                  
-S:::::S               ooooooooooo     f:::::f       ffffffttttttt:::::ttttttt                       E:::::E       EEEEEEnnnn  nnnnnnnn    
-S:::::S             oo:::::::::::oo   f:::::f             t:::::::::::::::::t                       E:::::E             n:::nn::::::::nn  
- S::::SSSS         o:::::::::::::::o f:::::::ffffff       t:::::::::::::::::t                       E::::::EEEEEEEEEE   n::::::::::::::nn 
-  SS::::::SSSSS    o:::::ooooo:::::o f::::::::::::f       tttttt:::::::tttttt     ---------------   E:::::::::::::::E   nn:::::::::::::::n
-    SSS::::::::SS  o::::o     o::::o f::::::::::::f             t:::::t           -:::::::::::::-   E:::::::::::::::E     n:::::nnnn:::::n
-       SSSSSS::::S o::::o     o::::o f:::::::ffffff             t:::::t           ---------------   E::::::EEEEEEEEEE     n::::n    n::::n
-            S:::::So::::o     o::::o  f:::::f                   t:::::t                             E:::::E               n::::n    n::::n
-            S:::::So::::o     o::::o  f:::::f                   t:::::t    tttttt                   E:::::E       EEEEEE  n::::n    n::::n
-SSSSSSS     S:::::So:::::ooooo:::::o f:::::::f                  t::::::tttt:::::t                 EE::::::EEEEEEEE:::::E  n::::n    n::::n
-S::::::SSSSSS:::::So:::::::::::::::o f:::::::f                  tt::::::::::::::t                 E::::::::::::::::::::E  n::::n    n::::n
-S:::::::::::::::SS  oo:::::::::::oo  f:::::::f                    tt:::::::::::tt                 E::::::::::::::::::::E  n::::n    n::::n
- SSSSSSSSSSSSSSS      ooooooooooo    fffffffff                      ttttttttttt                   EEEEEEEEEEEEEEEEEEEEEE  nnnnnn    nnnnnn
-                                                                                                                                          
+               
 
 
 ░░░░░░░░░░░▄▄▀▀▀▀▀▀▀▀▄▄
